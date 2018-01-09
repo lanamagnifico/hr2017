@@ -1,0 +1,4819 @@
+<ValueTree xmlns="http://v8.1c.ru/8.1/data/core" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ValueTree">
+	<column>
+		<Name xsi:type="xs:string">Представление</Name>
+		<ValueType>
+			<Type>xs:string</Type>
+			<Type>Null</Type>
+			<StringQualifiers>
+				<Length>0</Length>
+				<AllowedLength>Variable</AllowedLength>
+			</StringQualifiers>
+		</ValueType>
+		<Title>Представление</Title>
+		<Width xsi:type="xs:decimal">32</Width>
+	</column>
+	<column>
+		<Name xsi:type="xs:string">ИндексКартинки</Name>
+		<ValueType>
+			<Type>Null</Type>
+			<Type>xs:decimal</Type>
+			<NumberQualifiers>
+				<Digits>0</Digits>
+				<FractionDigits>0</FractionDigits>
+				<AllowedSign>Any</AllowedSign>
+			</NumberQualifiers>
+		</ValueType>
+		<Title>ИндексКартинки</Title>
+		<Width xsi:type="xs:decimal">32</Width>
+	</column>
+	<column>
+		<Name xsi:type="xs:string">Идентификатор</Name>
+		<ValueType>
+			<Type>xs:string</Type>
+			<StringQualifiers>
+				<Length>0</Length>
+				<AllowedLength>Variable</AllowedLength>
+			</StringQualifiers>
+		</ValueType>
+	</column>
+	<row>
+		<row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Венза ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Дарси ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Лурдес ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">РИОР ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Юранта ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">яВанз ООО (НЕ ИСПОЛЬЗОВАТЬ)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">яДорина ООО (НЕ ИСПОЛЬЗОВАТЬ)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">яОлмир ООО (НЕ ИСПОЛЬЗОВАТЬ)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">яСоната ООО (НЕ ИСПОЛЬЗОВАТЬ)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">яСтив ООО (НЕ ИСПОЛЬЗОВАТЬ)</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">яЭридас ООО (НЕ ИСПОЛЬЗОВАТЬ)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">_Гипермаркет (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Авангард ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Агата ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Аметист ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Армика ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Барит ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Бельтинг ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Бис ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Велес ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Витраж ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Галатея ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Гектор ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Гера ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Даор ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Дарс ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Дриада ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Ибикон ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Кальвис ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Лима ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Марс ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Ника ООО (Москва)</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Орион ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Плаун ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Призма ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Синтез ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">СТЕЛИС ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Таро ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Тирс ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Томас ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Эдельвейс ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">ЭкоКомфорт ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Эльза ООО</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Эстель ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Розница 1 (юр)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Аланта ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Аманда ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Корника ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">ЛАРИКС ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Ледакс ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Милада ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Талина ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Эристан ООО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Розница 2 (юр)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">_Розница МиМО</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Аверс ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Альнаир ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Волгоград (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Портал ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Воронеж (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Гемма ООО Челябинск ЗАКРЫТ</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Гемма ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Гемма ООО Тюмень</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Новая компания Челябинск ООО</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Талан ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Эйдос ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Екатеринбург (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Крафт ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Ньюидеямебель-К ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Казань (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Виктория ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Красноярск (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Бетта ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Ньюидеямебель-НН ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Танфер ООО</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Н.Новгород (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Дана ООО</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Дана2 ООО</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Ника ООО (Новосибирск)</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Новосибирск (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Велина ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Олимп ООО_розница</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Рамона ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Ростов-на-Дону (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Магнат ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Рязань (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Милена ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Стиль ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Самара (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Вектор ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Интегра ООО </Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Прагма ООО</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">София ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">ТД Гамма ООО</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Санкт-Петербург (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Виктория ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Уфа (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Лира ООО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Октант ООО</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Ярославль (юр)</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<Value xsi:type="xs:string">Организации Столплит</Value>
+			<Value xsi:type="xs:decimal">2</Value>
+			<Value/>
+		</row>
+		<row>
+			<row>
+				<Value xsi:type="xs:string">Истра/Фран</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Новопласт</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Ногинск</Value>
+				<Value xsi:type="xs:decimal">3</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Перово</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Раздолье</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">СТОЛЛАЙН</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">ТЦ "Идея Мебель"</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">ЧОП</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<Value xsi:type="xs:string">Партнеры</Value>
+			<Value xsi:type="xs:decimal">2</Value>
+			<Value/>
+		</row>
+		<row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Бюро пропусков</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел охраны труда</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел экологов</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Противопожарная служба</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Служба видеонаблюдения</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Административно-организационная служба</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Акционеры</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Департамент ИТ</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Секретариат</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Дирекция</Value>
+				<Value xsi:type="xs:decimal">3</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<row>
+						<row>
+							<row>
+								<row>
+									<row>
+										<Value xsi:type="xs:string">Бухгалтерия Волгоград</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<row>
+											<Value xsi:type="xs:string">Интернет-магазин Волгоград</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<row>
+											<Value xsi:type="xs:string">Отдел "Аксессуары" Волгоград</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<row>
+											<Value xsi:type="xs:string">Отдел "Гостиные, спальни" Волгоград</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<row>
+											<Value xsi:type="xs:string">Отдел "Кухни, прихожие, ванные, детские" Волгоград</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<Value xsi:type="xs:string">Отдел продаж Волгоград</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Сервисная служба Волгоград</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Склад №1 Волгоград</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Склад №2 Волгоград</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Служба безопасности Волгоград</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Служба главного инженера Волгоград</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<Value xsi:type="xs:string">Столплит Хоум Волгоград</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Гипермаркет Волгоград</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Гостиница АБК Краснодар</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Гурман (общепит)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Майкоп</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<row>
+										<Value xsi:type="xs:string">Бухгалтерия Краснодар</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<row>
+											<Value xsi:type="xs:string">Интернет-магазин Гипермаркет Краснодар</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<row>
+											<Value xsi:type="xs:string">Отдел "Аксессуары" Краснодар</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<row>
+											<Value xsi:type="xs:string">Отдел "Гостинные, спальни" Краснодар</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<row>
+											<Value xsi:type="xs:string">Отдел "Гостиные, стенки, столовые"  Краснодар (НЕ ИСП. с 01.04.2016)</Value>
+											<Value xsi:type="xs:decimal">3</Value>
+											<Value/>
+										</row>
+										<row>
+											<Value xsi:type="xs:string">Отдел "Кухни, прихожие, ванные, детские" Краснодар</Value>
+											<Value xsi:type="xs:decimal">2</Value>
+											<Value/>
+										</row>
+										<Value xsi:type="xs:string">Отдел продаж Краснодар</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Сервисная служба Краснодар</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Склад 3000 Краснодар</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Склад 500 Краснодар</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Служба безопасности Краснодар</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<row>
+										<Value xsi:type="xs:string">Служба главного инженера Краснодар</Value>
+										<Value xsi:type="xs:decimal">2</Value>
+										<Value/>
+									</row>
+									<Value xsi:type="xs:string">Столплит Хоум Краснодар</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Гипермаркет Краснодар</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Крупные форматы</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ОРЦ Сходня</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Отдел логистики гипермаркетов</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Отдел закупок гипермаркетов</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Офис (Средние форматы)</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Иваново</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Иваново</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Иваново</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Красногорск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Красногорск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Красногорск</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Одинцово</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Одинцово</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Одинцово</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Пришвина</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Пришвина</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Пришвина </Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Смоленск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Смоленск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Смоленск</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Сходня</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Сходня</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Сходня </Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Тула</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Тула</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Тула </Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" ТЦ Ритейл Парк</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж ТЦ "Ритейл Парк"</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум ТЦ «Ритейл Парк»</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Отдел "Аксессуары" Ярославль</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Отдел продаж Ярославль</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">СтолплитХоум Ярославль</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Средние форматы</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Гипермаркет</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел закупок</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел потребительского кредитования</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел развития ДРН</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">г. Белгород, ул. Есенина,8а</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Краснодар</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Колпино-3 ул. Веры Слуцкой, 46/2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  Колпино (Мебель Молл) пос. Тельмана 2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  Липецк, ТЦ Интерьер Парк (Лебедянское ш)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  Мебель Сити Саратов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  Практик ул. Планетная.</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  Ростов РИО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  ТРЦ Континент (Троллейная)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин "Атмосфера" (ул. Ф.Энгельса, 64а)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин "ГОЛД" Стиль ООО  Самара</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин "Практик" ул. Дуси Ковальчук, 270</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин (исп. для нового магазина)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Атриум (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Континент-1</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Магнит</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Махаон</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Стройарсенал</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 ТЦ Глобус (переименован в МАГНИТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Яхина (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 10 Гранд (перенесен с Софии)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 10 Гранд-Каньон (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 10 Мега Мебель Саратов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 10 Самолет (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 10 Юпитер, ул. Гоголя,  15</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 11 Мебель-Сити</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 11 Пятигорск уч. 3 массив, 11, с/т Отдых (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 11 ТЦ "Алтай" Барнаул</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 11 ТЦ Бахетле (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 11 Фэмили Рум Оренбург (Армада)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 11 Холмистая, 68</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 12  ТРЦ "Малина" Барнаул</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 12 Космопорт Самара</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 12 ЦДМ №2 (перенесен с НИМ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 12 ЦМР ЗИП Краснодар</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 13 Академгородок, ул. Кутателадзе, 4</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 13 Воронеж Максимир</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 13 Дисконт-Центр </Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 13 Пятигорск ул. Ермолова, 16/1 ТЦ "Лаки Плаза"</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 13 Челябинск-2 (Суперстрой) (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 14 Курск, ул. К. Маркса, 14А.</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 14 Лукоморье г. Энгельс</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 14 Ростов ул. Вавилова, 63</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 14 ТЦ "Республика" г.Барнаул</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 15 Метрика Выборгское шоссе НОВЫЙ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 15 Полтинник</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 15 пр. Дальний, 3  Краснодар 225 м2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 15 ТЦ "Калейдоскоп", ул. Сибиряков Гвардейцев, 2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 16 Ашан Парнас (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 16 Сортировка (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 16 ул. уральская, 79/2 ТРЦ "СБС" 120 м2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 17 Ашан Дыбенко (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 17 ул.Бунимовича, ТЦ "Планета"</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 18 "Мебель Молл"</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 18 Интерио (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 18 Карусель пр-т Руставели (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 19 ОКЕЙ Жукова</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 19 Пятигорск Жакко</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Гулливер</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Карусель</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Кострома</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 МебельВилль</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 МЦ Континент</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Проспект</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Рыбацкое ул.Кароваевская</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Светлановская 50, Б.Медведица (не использовать)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Семь ветров (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 20 ТК ОКА-2 г. Колпино (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 21  Колпино-2 (ТЦ Дом мебели)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 21  Колпино-2 (ТЦ Дом мебели) временный</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 21 Сток-центр (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 21 ТЦ "РИО"</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 22  Комендантский проспект, 35</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 22 (Пятигорск, ТЦ ТелеМир)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 23 ул. Газовиков, 49/3</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 24 Колпино Б.Трудящихся</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 24 Космонавтов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 26 ТК "Космос" ул. Авиаконструкторов, 5 НОВЫЙ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 3 г. Дзержинск ТЦ Эдем (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 3 Ген. Лизюкова, 63А</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 3 Калина (Д.Ковальчук 270) </Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 3 Мебельный базар, Оренбург</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 3 Меркурий</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 3 Сенной рынок ул.Октябрьская,170</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 3 ТВК Республика,ТЦ Практика</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">магазин 3 Фараон</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 4 Ашан Адыгея (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 4 Континент-2 (Гусинобродское шоссе, 20) (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 4 Сормовский рынок</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">магазин 4 Тандем</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 4 Ярмарка мебели Саратов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Аркаим </Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Ашан-Ростов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Гатчина (перенесен на Вектор)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Интернет-магазин Омск (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Кубатура Самара</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 ТЦ Квант</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 ЦДМ (перенесен на крафт)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Череповец</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Буденновский  пр-т, 9 (Центральный рынок)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Всеволжск</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Континент-3 (ул.Кропоткина,128А) (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Май Самара</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Окей Ростов, ЗЖМ, ул. Малиновского (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Радуга </Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 ТЦ Мебель, ул.Школьная,26А</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Уралмаш (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Автовокзал (ул. Большакова) (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Домоцентр (ул.Ватутина,107)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Звезда</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Масштаб ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Окей Краснодар, мкр-н Гидростроителей, ул. Мачуги, 2 (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Стерлитамак-1 ул. Гоголя, 122А</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Фантастика (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 Азино</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 ЖБИ Стройарсенал (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 Липецк, Победы, 20 (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 Окей пр-т Ленина, 113  (м. Кировская) (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 Пятерочка Краснодар,  ул. Селезнева, 124 (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 Стерлитамак-2 Раевский Тракт, 1М/1</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 ТЦ Тэтрис (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 ТЦ.Бубен  ул.Уточкина</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 9 Магнит Саратов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 9 Ростов Горизонт</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 9 Стерлитамак-3 Полевая, д.7, кор. А</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 9 ТРЦ "Горский" ул. Немировича-Данченко, 142</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 9 ул.Победы, д.96</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин №2 Светлановская 50</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Ашан (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ГМ Магнит, пр-т Авиаторов, 157, г.Ярославль </Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Голден Филд</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Гурьевский (ул.Гурьевская, 38)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Май Стиль Самара</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Мебельный центр п .Тельмана</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин МЦ "100 метровка", ул.Галичская, 106</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин МЦ "ЭМА"  (ул.Виз Бульвар,д.13)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин МЦ 12 стульев (Балканская площадь 5)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Нижнекамск</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Новый мир (переведен в СТИЛЬ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Пятигорск ул. Ермолова, 22/1 ТЦ "Элит"</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Рынок Пятигорск</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТК "МебельМолл" Саратов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТК "Меркурий" г.Энгельс</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТК "МЗ"(пр.Победы, 174) Оренбург</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТРЦ Альтаир (Ленинградский пр, 123)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ "Москва" г. Барнаул</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ Лагуна (Казанское шоссе 12)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ Ривьера ул.Краснодонцев,10</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ Франт (ул.Фучика 90)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ Ярмарка мебели (ул.Верхняя) Саратов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин, г.Пенза, ул.Центральная, ТРЦ "Ритейл Парк"</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин, ул. Урицкого, 70, ТЦ "ЦДМ"</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Мега Гринн ТЦ г.Белгород (ул.Б.Хмельницкого)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">ОМСК Магазин 1 Алпи (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">ОМСК Магазин 2 Апельсин (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">ОМСК Магазин 3 Континент (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">ОМСК Магазин 4 Мебельвилль (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Волжский</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 1 Череповецкая, 5</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 2 Ополченская, 11к</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 3 Историческая, 175</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 4 г. Волжский, ул. Карбышева, 47</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 5  пр. Ленина, 65Г</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 6  ТЦ "Мебель Молл" ул. Козловская, 55</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 6, Козловская, 55</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 7 ПОКА НЕ ОТКРЫТ</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 7, г. Волжский, ТЦ "Волжский пассаж"</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Розница Волгоград</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 1 ТЦ Лайм ЗАКРЫТ</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 3 ТЦ 4 комнаты ЗАКРЫТ</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 4 ТЦ Фэмили Рум ЗАКРЫТ</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 8 ТЦ Строй-Барс ЗАКРЫТ</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Розница Рязань</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 3 Будапештская</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 9 Кировский завод</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Сектор I С.Петербург</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 5 Гатчина</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Сектор II С.Петербург</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Сипайлово, ул. Ю.Гагарина, 31 к.2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">ТРЦ Красная площадь, ул.Дзержинского, 100</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">ТЦ "Большая Медведица", Пенза</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">ТЦ "Сибирский городок", г. Красноярск, </Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Шоу рум Красная поляна</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Закрытые магазины регионы</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Белгород</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Воронеж</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Курск</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Липецк</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Московский пр-т</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 10 ТЦ Арена</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Ленинский пр-т</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 4 Ворошилова, 2</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Остужева, 5А</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 Курск, Кулакова, 24 (ЗАКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 7 Курск, Европа</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 9 Липецк, Сокол (НЕ ОТКРЫТ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Курск, ТЦ «МегаГринн»</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ «Перестройка»</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ «Рынок Воронежский»</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Воронеж</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Екатеринбург</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 10 Верхняя Пышма</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 3 Интернет Екатеринбург</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 4 Аист</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 5 Идея</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 9 Буревестник (ЗАКРЫТ)</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин, ТК "КОР" </Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Екатеринбург (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Тюмень</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 11 ТЦ Континент</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 14 Тюмень-2 (ТК Новый Магнат) (ЗАКРЫТ)</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 17 Тюмень-3 (МД на Мальвинке)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 20 Блошинка</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин ТК Мебельград (Широтная 209)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин ТРЦ Сити Молл</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин Яркий Сибиряк</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Ошибка</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Тюмень (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Екатеринбург</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Казань</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 2 Ломженская (ЗАКРЫТ)</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 3 Мегга (ЗАКРЫТ)</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 4 Мум (ЗАКРЫТ)</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Казань (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 14 Строймаркет (Ульяновский пр-т, 24)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 6 Стройград (ГРАНД)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 9 Мебельград</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Шоурум Запад (г.Ульяновск)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Ульяновск (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Казань</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Красноярск</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Красноярск</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Владимир</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Вязники</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Киров</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Кострома</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Нижний Новгород</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Саров</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  ТЦ Фестиваль (Казанское шоссе 6)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Открытый материк, ул.Ларина,7</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 МЦ Бум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 5 Мебель Плюс, ул. Переходникова, 25</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 6 ТЦ Союзный  ул Свободы д.1</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 9 Мебельный базар</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Н.Новгород</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Барнаул</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Новосибирск</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  ТРЦ Континент (Троллейная) (дубль, не использовать)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Новосибирск</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Пятигорск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Пятигорск (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Ростов</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Ростов-на-Дону (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Ростов-на-Дону</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин С.Петербург</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 1 Сопот</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 12 МебельВуд (Дальневосточный)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 13 Ульянка</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 2 Рыбацкое ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 23 Светлановский</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Варшавская, дом3,корп.1</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин Мебельный континент</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин ТЦ Аквилон (ул.Новолитовская)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница С.Петербург</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 8 Мега Сити Самара</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин-интернет Пенза</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин-интернет Тольятти</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин-интернет Энгельс</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Оренбург</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин  Новый мир Оренбург</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Оренбург (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Самара</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 1 Мягкофф</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин 2 Интермебель</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Магазин ТК "ГОЛД" Самара</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">МЦ "Центр Мебели", Самара</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Самара (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Магазин-интернет Саратов</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Саратов (магазины)</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Самара</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Уфа</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  Стерлитамак ул. Сагитова, д.2е</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Уфа</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Интернет-магазин Череповец</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Розница Ярославль</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Отдел региональной розничной торговли</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Ашан (Сокольники)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Семеновская (Электрозаводская)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Щелковское</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №1</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Ашан Алтуфьево</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Долгопрудный</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Лобня</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Пушкино</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Пушкино-2</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">РИО-Ленинградка</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №2</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Дмитров</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Дубна</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Зеленоград (ТЦ Зеленоградский)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Зеленоград-2 (ТЦ "Ольга")</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Истра</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Солнечногорск-2</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №3</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Ашан (Химки 46 кв.м.)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Клин (ул. Спортивная)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Клин-2 (ТЦ Атак)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Кронштадтский (Водный стадион)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Химки</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Яблочкова (Депо Молл)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №4</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Балашиха</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Балашиха-2 (ТЦ Светофор)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Королев</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мытищи</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Фрязино (Третий Рим)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Щелково</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №5</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Открытое (Подбельского)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Свиблово, ТЦ Чукотка</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Тимирязевская, ТЦ Парк 11 </Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Часовая (ТЦ «Билла»)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Череповецкая/Алтуфьево</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Ярославка (ВДНХ)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №6</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">1 сектор</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Зеленый Перекресток (бульвар Ушакова)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Коньково</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Принц Плаза (Профсоюзная)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Троицк</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Черемушки ТЦ (Профсоюзная)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Щербинка, ТК Акварель</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №1</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Домодедово</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Климовск-2</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Подольск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Подольск (ул.Ленинградская)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Подольск ТЦ "Вагант"</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Серпухов</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Чехов (ТЦ Перспектива)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №2</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Группа магазинов №3</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Вернадского (Юго-Западная)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Голицыно (ТЦ "Новый")</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Звенигород</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Раменки ТЦ Перекресток</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Румянцево</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Ярцевская (Молодежная)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №4</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Андропова (ТЦ "Мегаполис")</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Духовской (Тульская)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Планерная ТПУ</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Свободы (Сходненская)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Туристская (Сходненская)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Хорошевское шоссе (ТЦ "На Беговой")</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №5</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">2 сектор</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Бирюлево-западное</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Бирюлевская (Царицыно)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Видное-2</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Волгоградский пр-т (Мебель России)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Кустанайская (Красногвардейская)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №1</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Ашан Марьино</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Братиславская 2 Интерьер</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Люберцы (Жулебино) Грант</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Люберцы-3 (Светофор)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Люберцы-4</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Святоозерская, ТРЦ «Косино Парк»</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №2</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Ашан-Лефортово</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Генерала Белова, ТЦ "МебельГрад"</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Маршала Чуйкова (ТЦ "Ареал")</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Реутов</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Рязанский проспект (ТЦ Город)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Салтыковка ТЦ "Никольский парк"</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">ТЦ Город 2 (Рязанский пр-т 2)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Шипиловский, Копейка Орехово </Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №3</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Жуковский</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Жуковский ТРЦ Авиатор</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Коломна</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Раменское</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Раменское (ТЦ Мебель Холл)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Томилино</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №4</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Бронницы </Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Воскресенск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Егорьевск</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Егорьевск-2 (ТЦ Гранд)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Рязань ТД Центральный Луховицы</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Рязань ТЦ Глобус</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №5</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Железнодорожный</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Ликино-Дулево (ТЦ Дворец)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Орехово-Зуево</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Павловский посад-2 (ТЦ Апрель)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Электросталь ТЦ "Глобус"</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Электросталь-2 (Эльград)</Value>
+									<Value xsi:type="xs:decimal">2</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Группа магазинов №6</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">3 сектор</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">АФИМОЛЛ-Сити ТРЦ (Шоурум)</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Бутово Шоурум</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Дизайнер на дом</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Адмирала Ушакова (ТЦ "Зеленый Перекресток)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Ашан (Белая Дача)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Тверь ТЦ Вавилон</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Ашан Гагаринский</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Ашан Каширка (ТЦ Вегас)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Ашан Медведково</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Ашан Рязанка (ТЦ Город-2)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Балаклавский (ТЦ Штаер)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Балашиха (Шоурум)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Беляево</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Братиславская</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Вавилова (ТЦ Триумфальный)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Варшавское 129 (ранее Пражская-2) ЗАКРЫТ с 9.06.10</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Вешняковская (ТЦ Мегаком)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Видное (Красный камень)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Видное ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Волгоградский пр-т</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Группа магазинов №6</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Дедовск</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Дежнева</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Дзержинский</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Ереван плаза</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Зеленоград</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Зеленоград-2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Золотой Вавилон ТЦ (Пр-кт Мира,211)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Кировоградская-1 (Пражская) ЗАКРЫТ с 01.05.10</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Кировоградская-2 (ТЦ Электронный рай)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Климовск</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Клин</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Клин-3</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Коломенский (Пятерочка)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Коломна-2 ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Копейка (Наро-Фоминск) (перешел на Столлайн)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Котельники</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Красногорск</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Кузминки</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Лобня-2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Локомотивный (Петровско-Разумовская)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Луховицы</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Люберцы-2 (Подосинки)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин  Ритэйл Парк</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Магазин 19 Жакко (НЕ ИСПОЛЬЗОВАТЬ)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Митино (закрыт)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">МКАД-23 (Каширка, Твой Дом) ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Можайское шоссе (Мебель России) ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Мытищи-2 (ТЦ Формат кухни) ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Мытищи-3 (ТЦ Формат корпус) ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Мытищи-4 (Летная, Норфа)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Наметкина (Новые Черемушки)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Новоясеневский (Мебель Сити)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Обнинск</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Обнинск </Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Одинцово</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Одинцово (Шоурум)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Петровско-Разумовский (Вымпел)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Подольск 2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Пришвина (Корника) (переведен на подразделение Пришвина Ванз с 01.06.11)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Профсоюзная (ТЦ "Ареал-2")</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Раменки</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Реутов-2 (Владимирский тракт)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Рио-Дмитровка (ЗАКРЫТ с 01.04.12)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Рио-Реутов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Рио-Черемушки</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Рязань МЦ Мебель Молл</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Рязань МЦ Мебельмолл</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Рязань ТЦ Александровский</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Серпухов-2 ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Серпухов-3</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Симферопольская</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Солнечногорск</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Сток-магазин</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Строгино (Исаковского)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Тверь РИО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Тихорецкий (Люблино ТЦ Москва) ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Тихорецкий-2 (Люблино ТЦ Люблинское поле)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Тюленева (Теплый стан)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Ховрино (Зеленоградская)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Чертановская</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Чехов (ул.Товарная)ЗАКРЫТ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Чехов 2</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Шаболовка</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Шоссе Энтузиастов</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Шоурум (ИмперияСтрой)</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Щербинка</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Электросталь</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Закрытые магазины МиМО</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Интернет-магазин ... (не исп.)</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Весна Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Десна Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Егорьевск Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Зеленоград Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Зодчий Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Зодчий-2 Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Ивантеевка Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Новые Ватутинки Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Просторный  Шоурум</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Шоурумы</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Отдел розничной торговли в Москве и МО</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел экспансии</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<Value xsi:type="xs:string">Гарантийный отдел (водители-столяры)</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Отдел доставки (водители)</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Отдел сборки (сборщики)</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Офис (Крупные форматы)</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Отдел  сборки</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Отдел доставки</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Регионы</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Офис сервисной службы</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Сервисная служба</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Служба по обслуживанию экспозиций</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Столплит Бонус</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">СтолплитТендер</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Франчайзинг Розница</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">ДРН</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Группа региональной логистики</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<Value xsi:type="xs:string">ДВФО</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ПФО</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">СЗФО</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">СФО</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">УФО</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ЦФО</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ЮФО</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Опт Москва</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел операторов</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<Value xsi:type="xs:string">Абхазия</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Армения</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Белоруссия</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Болгария</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Венгрия</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Казахстан</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Калининград</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Монголия</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Польша</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Администрация</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Интизар</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">НАИИРИМ</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<row>
+									<Value xsi:type="xs:string">Интернет-магазин Алма-Ата</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мебельный салон АМИР</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мебельный салон АРМАДА</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мебельный салон АРМАДА2</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мебельный салон БЕЛЕС</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мебельный салон ЖАМБЫЛА</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мебельный салон МЕРЕЙ</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Мебельный салон СТОЛПЛИТ-СЕЙФУЛИНА</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<row>
+									<Value xsi:type="xs:string">Офис розницы</Value>
+									<Value xsi:type="xs:decimal">3</Value>
+									<Value/>
+								</row>
+								<Value xsi:type="xs:string">Розница Алма-Ата</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Алма-Ата</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Розница Караганда</Value>
+								<Value xsi:type="xs:decimal">2</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Караганда</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Румыния</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Сербия</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Lodz</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Lublin</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">NIM</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Outlet Kabaty</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Outlet Metropol</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Outlet Tecko</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Poznac</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Targywek</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Tesco</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Wrociaw</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">Склад Польша</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Таджикистан</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Украина</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Черногория</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Отдел экспорта</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">ОТК Коммерческого департамента</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">РОС Краснодар (Не использовать)</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">РОС Рязань</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<Value xsi:type="xs:string">Велис ООО</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">РОС Уфа</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Веста ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Волгоград</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Гранд ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Омега ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Екатеринбург</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Аванта ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Арго ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Казань</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Милитта ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Новосибирск</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Деметра ООО_опт</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<row>
+								<Value xsi:type="xs:string">Олимп ООО_опт</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Ростов-на-Дону</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Вилма ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Ярославль</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Сектор 1</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Тефия ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Воронеж</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Паллада ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Красноярск</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Верона ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Н.Новгород</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Вейс ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС С.Петербург</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<row>
+								<Value xsi:type="xs:string">Альфа ООО</Value>
+								<Value xsi:type="xs:decimal">3</Value>
+								<Value/>
+							</row>
+							<Value xsi:type="xs:string">РОС Самара</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Сектор 2</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Сектор 3</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<Value xsi:type="xs:string">ИП Асейкин В.В.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Гуняев А.Ю.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Демина А.И.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Емельянов С.Г.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Кукушкина Г.А.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Лаптев М.Е.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Малинина Н.Н.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Мальцева Н.В.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Ромашин Д.А.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Фефелов С.В.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ИП Цветкова Л.В.</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ООО "Арт-Лайн"</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ООО "Реалон"</Value>
+							<Value xsi:type="xs:decimal">3</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ООО "Фрайдей груп"</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">ООО "Хорошая обстановка"</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Франчайзинг</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Отдел оптовой торговли</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел по работе с крупными сетями</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Руководство</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">СтолплитДом</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Экспорт США</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Юридический отдел продаж</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Коммерческая служба</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Контрольно-аналитический отдел</Value>
+				<Value xsi:type="xs:decimal">3</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Отдел ВЭД</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Отдел международной и региональной логистики</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Секретариат </Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Учебный центр</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Отдел персонала</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Отдел по персоналу</Value>
+				<Value xsi:type="xs:decimal">3</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Отдел трудовой миграции</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">ОФЭК</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Гостиница</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Диет.зал</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Жил. городок</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Кабинет</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Клининговая служба</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Магазин</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Мед. пункт</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Обслуживание офисов</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Парикмахерская</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Столовая</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">АХО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Конструкторское бюро</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Контрольная сборка</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Контрольная сборка (учетчики деталей)</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<Value xsi:type="xs:string">Производственно-аналитический отдел</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Планово-аналитический отдел</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Технологический отдел</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Экспериментальный цех</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Отдел развития</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел снабжения</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">ОТК </Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Плановый отдел</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Склад переработки дав.материалов</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №10</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №11</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №12</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №14</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №16</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №2</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №21</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №22</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №23</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №24</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №27      </Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №29</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №3</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №30</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №4</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №41</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №43</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №4М</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №5</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №6</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №7</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №8</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №9</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №9/1</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех №9/2</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех бандовочных уголков</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех гофры</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех мягкой мебели</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех сольвентной печати</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех тары</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Цех фурнитуры</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Производство</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Вентиляционная служба</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Ремонт деревообрабатывающего инструмента</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Служба сантехников</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Служба электриков</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Строительный участок</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Техническая служба</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Служба гл. инженера</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Производственный департамент</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Служба безопасности</Value>
+				<Value xsi:type="xs:decimal">3</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Служба безопасности регионов</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Магазин 5 Интернет Рязань</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Интернет-магазин Иваново</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Интернет-магазин Москва</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Интернет-магазин Рязань</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Интернет-магазин Смоленск</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Интернет-магазин Тула</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Интернет-магазин Ярославль</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Отдел Интернет-проектов</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел рекламы</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Служба рекламы и маркетинга</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">ВЭД-ЗВП</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел ГСМ</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел уборки территории</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">ПРУ "Станция"</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Розничный склад готовой продукции №28</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Розничный склад готовой продукции №36</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Участок раскроя кромки</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Склад материалов</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Склад МБП</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Склад неликвидов №54</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Склад оптовой продукции №57, 17</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Склад полуфабрикатов</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Склад рекламы</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Транспортная логистика ЖД</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Транспортная логистика ЖД Истра</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Участок утилизации</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Служба складской логистики</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Погрузочно-разгрузочный участок</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">СЭБ</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Участок ремонта и ТО</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Участок эксплуатации автомашин</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Участок эксплуатации погрузчиков</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Транспортный отдел</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<Value xsi:type="xs:string">Бухгалтерия розничного направления</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Бухгалтерия: оптовая торговля</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Бухгалтерия Гипермаркетов</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Бухгалтерия Розничное направление</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Бухгалтерия Розничное направление_2</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Бухгалтерия: розничная торговля</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Отдел проектного финансирования</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Офис_Фабрика</Value>
+					<Value xsi:type="xs:decimal">3</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Бухгалтерия импорта и экспорта</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Бухгалтерия недвижимости</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Бухгалтерия производства</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел кадров</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Фин. служба производственных фирм</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Фин.служба импортное направление</Value>
+						<Value xsi:type="xs:decimal">3</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Производственная бухгалтерия</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Производственно-экономический отдел</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Касса</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел по работе с банками</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел по работе с клиентами</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Отдел ценообразования</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">ОТИЗ</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Служба проектного строительства</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<Value xsi:type="xs:string">Финансовая группа</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<row>
+						<row>
+							<Value xsi:type="xs:string">Отдел по работе с банками ВАНЗ</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Отдел ценообразования ВАНЗ</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<row>
+							<Value xsi:type="xs:string">Финансовая группа ВАНЗ</Value>
+							<Value xsi:type="xs:decimal">2</Value>
+							<Value/>
+						</row>
+						<Value xsi:type="xs:string">Финансовая группа ВАНЗ</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Финансовые службы</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Финансово-бухгалтерский департамент</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<row>
+					<row>
+						<Value xsi:type="xs:string">Эстония</Value>
+						<Value xsi:type="xs:decimal">2</Value>
+						<Value/>
+					</row>
+					<Value xsi:type="xs:string">Европа</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<row>
+					<Value xsi:type="xs:string">Европа Шоурум</Value>
+					<Value xsi:type="xs:decimal">2</Value>
+					<Value/>
+				</row>
+				<Value xsi:type="xs:string">Экспорт ЕВРОПА</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<row>
+				<Value xsi:type="xs:string">Юридический отдел</Value>
+				<Value xsi:type="xs:decimal">2</Value>
+				<Value/>
+			</row>
+			<Value xsi:type="xs:string">СТОЛПЛИТ</Value>
+			<Value xsi:type="xs:decimal">2</Value>
+			<Value/>
+		</row>
+		<Value xsi:type="xs:string">Группа компаний "СТОЛПЛИТ"</Value>
+		<Value xsi:type="xs:decimal">2</Value>
+		<Value>{"#",3c417719-35b4-4a63-a790-fb0e2da0ae49,71:947c00304865271111deb262a1718888}</Value>
+	</row>
+	<row>
+		<Value xsi:type="xs:string">ст</Value>
+		<Value xsi:type="xs:decimal">2</Value>
+		<Value>{"#",3c417719-35b4-4a63-a790-fb0e2da0ae49,71:b4f0005056a050d111e4ef9fb33ec8f3}</Value>
+	</row>
+</ValueTree>
